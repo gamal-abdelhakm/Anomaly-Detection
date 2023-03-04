@@ -1,0 +1,13 @@
+timm==0.4.12
+einops==0.3.0
+ftfy==6.0.3
+mmcv==1.3.11
+pyyaml
+tqdm
+munch
+terminaltables
+scikit-learn
+pandas
+termcolor
+typed-argument-parser
+einops
